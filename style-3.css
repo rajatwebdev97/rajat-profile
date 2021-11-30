@@ -1,0 +1,39 @@
+@media only screen and (max-width:426px){
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    /* right start  */
+    .right .section-1 {
+       padding: .5rem;
+       margin: 0;
+    }
+    .right .section-1box{
+        flex-direction: column-reverse;
+    }
+    .right .section-1 .content {
+        margin: 0;
+        width: 100%;
+       
+    }
+    .right .section-1box .content h1 {
+        font-size: 28px;
+        padding: 0;
+        width: 100%;
+    }
+    .right .section-1box p {
+        font-size: 14px;
+    }
+    .right .section-1box .img {
+        margin: 0 auto;
+    }
+    /* right finish  */
+    /* .services start  */
+        
+    .services .services-box .box{
+        width: 100%;
+
+    }
+    /* .services finish  */
+
+}
